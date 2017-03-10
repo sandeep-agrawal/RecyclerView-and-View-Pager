@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sandeeplabs108/Desktop/AskMeAssignment/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Users/sandeeplabs108/Desktop/AskMeAssignment/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.3.0_6bdd954d9f309d41bd31fe52a2878331cb8315d7.jar" />
+    </item>
+    <item
+        jar="/Users/sandeeplabs108/Desktop/AskMeAssignment/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="039ae6b88334aa6736f650d273798e1f0512585d">
+        <dex dex="/Users/sandeeplabs108/Desktop/AskMeAssignment/app/build/intermediates/pre-dexed/debug/instant-run_837fc4544813db9649089d9c39568c039a348d8c.jar" />
+    </item>
+    <item
+        jar="/Users/sandeeplabs108/Desktop/AskMeAssignment/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a98f2b9ffdc2810fdcd73e327f21d16eeabaefcd">
+        <dex dex="/Users/sandeeplabs108/Desktop/AskMeAssignment/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_05fa5dd5f4c53a05a6bfb727d0e54d516aab0652.jar" />
+    </item>
+    <item
+        jar="/Users/sandeeplabs108/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/sandeeplabs108/Desktop/AskMeAssignment/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_41c4282ff8d39c26a8aa7b05654ee1ed4c8a2a9a.jar" />
+    </item>
+    <item
+        jar="/Users/sandeeplabs108/Desktop/AskMeAssignment/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/sandeeplabs108/Desktop/AskMeAssignment/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_b5a1d264e40fd92e0d1a491dd82e326a0686999a.jar" />
+    </item>
+    <item
+        jar="/Users/sandeeplabs108/Desktop/AskMeAssignment/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/sandeeplabs108/Desktop/AskMeAssignment/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.3.0_a3c5d6570c3b842866fa97816fe9ccf08a6fee52.jar" />
+    </item>
+    <item
+        jar="/Users/sandeeplabs108/Desktop/AskMeAssignment/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/sandeeplabs108/Desktop/AskMeAssignment/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_e1e2f72c1056e3ddcde8c784219ee2f13cbaa216.jar" />
+    </item>
+    <item
+        jar="/Users/sandeeplabs108/Desktop/AskMeAssignment/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/sandeeplabs108/Desktop/AskMeAssignment/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.3.0_8d2a806198d1acc963eabdcb24be902bf58cebad.jar" />
+    </item>
+    <item
+        jar="/Users/sandeeplabs108/Desktop/AskMeAssignment/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/sandeeplabs108/Desktop/AskMeAssignment/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_6f32cf6bb0d0f90c0434eaeba9d759b72a2ee639.jar" />
+    </item>
+    <item
+        jar="/Users/sandeeplabs108/Desktop/AskMeAssignment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/sandeeplabs108/Desktop/AskMeAssignment/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_2362b2c1a8a2ae462a1d59c8a4123185478cefbb.jar" />
+    </item>
+    <item
+        jar="/Users/sandeeplabs108/gradle-2.8/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/sandeeplabs108/Desktop/AskMeAssignment/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_6d1665458271dc20eaafff3e828dad53c42dab0c.jar" />
+    </item>
+    <item
+        jar="/Users/sandeeplabs108/Desktop/AskMeAssignment/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/sandeeplabs108/Desktop/AskMeAssignment/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_a8584520bc3924f3e212d1fbc849a9532229c211.jar" />
+    </item>
+
+</items>
